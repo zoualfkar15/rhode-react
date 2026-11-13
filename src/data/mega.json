@@ -1,0 +1,302 @@
+[
+ {
+  "key": "Featured",
+  "label": "Featured",
+  "items": [
+   {
+    "slug": "peptide-lip-tint-salty-tan",
+    "title": "PEPTIDE LIP TINT",
+    "subtitle": "The tinted lip layer",
+    "badge": "scented",
+    "badgeColor": "color: #FFFFFF; background-color: #67645E;",
+    "img": "mainimage-saltytan-SQ.png"
+   },
+   {
+    "slug": "the-on-the-go-set",
+    "title": "THE ON-THE-GO SET",
+    "subtitle": "Five take-everywhere essentials",
+    "badge": "only at rhode",
+    "badgeColor": "color: #ffffff; background-color: #67645e;",
+    "img": "on-the-go-set-r-icon-main-png-2000x2000.png"
+   },
+   {
+    "slug": "the-duos",
+    "title": "POCKET BLUSH",
+    "subtitle": "Pocket Blush + Peptide Lip Tint",
+    "badge": null,
+    "badgeColor": "",
+    "img": "main-duo-teacup-pretzel-SQ.png"
+   },
+   {
+    "slug": "peptide-lip-shape-squeeze",
+    "title": "PEPTIDE LIP SHAPE SQUEEZE",
+    "subtitle": "The contouring lip shaper",
+    "badge": "New Shades",
+    "badgeColor": "color: #ffffff; background-color: #67645e;",
+    "img": "squeeze-main.png"
+   },
+   {
+    "slug": "highlight-milk-02",
+    "title": "HIGHLIGHT MILK",
+    "subtitle": "Multipurpose Luminizer",
+    "badge": null,
+    "badgeColor": "",
+    "img": "allure-highlight-milk-badge.webp"
+   },
+   {
+    "slug": "snap-on-lip-case",
+    "title": "SNAP-ON LIP CASE",
+    "subtitle": "Lip holder with MagSafe",
+    "badge": "only at rhode",
+    "badgeColor": "color: #ffffff; background-color: #67645e;",
+    "img": "snap-on-colada-main-png-2000x2000.png"
+   }
+  ]
+ },
+ {
+  "key": "Skin",
+  "label": "Skin",
+  "items": [
+   {
+    "slug": "glazing-milk",
+    "title": "GLAZING MILK",
+    "subtitle": "Ceramide facial essence",
+    "badge": null,
+    "badgeColor": "",
+    "img": "allure_bob_2024_1.webp"
+   },
+   {
+    "slug": "caffeine-reset",
+    "title": "CAFFEINE RESET",
+    "subtitle": "Sculpting cream mask",
+    "badge": null,
+    "badgeColor": "",
+    "img": "menu-png-caffeine-reset.png"
+   },
+   {
+    "slug": "spotwear-strawberry",
+    "title": "SPOTWEAR",
+    "subtitle": "Hydrocolloid Pimple Shield",
+    "badge": "New",
+    "badgeColor": "color: #ffffff; background-color: #67645e;",
+    "img": "spotwear-strawberry-main-png-2000x2000.png"
+   },
+   {
+    "slug": "barrier-restore-cream",
+    "title": "BARRIER RESTORE CREAM",
+    "subtitle": "Comforting daily moisturizer",
+    "badge": null,
+    "badgeColor": "",
+    "img": "brc-2000x2000_1_2.png"
+   },
+   {
+    "slug": "highlight-milk-03",
+    "title": "HIGHLIGHT MILK",
+    "subtitle": "Multipurpose Luminizer",
+    "badge": null,
+    "badgeColor": "",
+    "img": "allure-highlight-milk-badge.webp"
+   }
+  ]
+ },
+ {
+  "key": "Lip+Cheek",
+  "label": "Lip+Cheek",
+  "items": [
+   {
+    "slug": "peptide-lip-tint-salty-tan",
+    "title": "PEPTIDE LIP TINT",
+    "subtitle": "The tinted lip layer",
+    "badge": "scented",
+    "badgeColor": "color: #FFFFFF; background-color: #67645E;",
+    "img": "mainimage-saltytan-SQ.png"
+   },
+   {
+    "slug": "the-duos",
+    "title": "THE DUOS",
+    "subtitle": "Blush + Lip Combos",
+    "badge": null,
+    "badgeColor": "",
+    "img": "main-duo-teacup-pretzel-SQ.png"
+   },
+   {
+    "slug": "pocket-pearl-monaco",
+    "title": "POCKET PEARL",
+    "subtitle": "Limited edition shades",
+    "badge": "only at rhode",
+    "badgeColor": "color: #ffffff; background-color: #67645e;",
+    "img": "monaco-main.png"
+   },
+   {
+    "slug": "pocket-brush",
+    "title": "POCKET BRUSH",
+    "subtitle": "Double-ended makeup brush",
+    "badge": "New",
+    "badgeColor": "color: #ffffff; background-color: #67645e;",
+    "img": "brush-main.png"
+   },
+   {
+    "slug": "pocket-bronze-sip",
+    "title": "POCKET BRONZE",
+    "subtitle": "Long-wearing warmth",
+    "badge": "New",
+    "badgeColor": "color: #ffffff; background-color: #67645e;",
+    "img": "sip-main.png"
+   },
+   {
+    "slug": "peptide-lip-boost-sugarmint",
+    "title": "PEPTIDE LIP BOOST",
+    "subtitle": "Plumping lip mask",
+    "badge": null,
+    "badgeColor": "",
+    "img": "main-png-plb-sugarmint.png"
+   }
+  ]
+ },
+ {
+  "key": "Sets",
+  "label": "Sets",
+  "items": [
+   {
+    "slug": "the-peptide-lip-tint-set",
+    "title": "THE PEPTIDE LIP TINT SET",
+    "subtitle": "Four shades of your choice",
+    "badge": null,
+    "badgeColor": "",
+    "img": "quad-tplt-main.png"
+   },
+   {
+    "slug": "full-rhode-kit",
+    "title": "THE RHODE KIT",
+    "subtitle": "Four daily skin essentials",
+    "badge": "only at rhode",
+    "badgeColor": "color: #ffffff; background-color: #67645e;",
+    "img": "rhodekitmainimage_1.png"
+   },
+   {
+    "slug": "the-on-the-go-set",
+    "title": "THE ON-THE-GO SET",
+    "subtitle": "Five take-everywhere essentials",
+    "badge": "only at rhode",
+    "badgeColor": "color: #ffffff; background-color: #67645e;",
+    "img": "on-the-go-set-r-icon-main-png-2000x2000.png"
+   },
+   {
+    "slug": "the-soft-glam-set",
+    "title": "THE SOFT GLAM SET",
+    "subtitle": "Glowy makeup essentials",
+    "badge": "only at rhode",
+    "badgeColor": "color: #ffffff; background-color: #67645e;",
+    "img": "soft-glam-set-main.png"
+   },
+   {
+    "slug": "the-spotwear-trio",
+    "title": "THE SPOTWEAR TRIO",
+    "subtitle": "Three Shapes Of Your Choice",
+    "badge": null,
+    "badgeColor": "",
+    "img": "spotwear-trio-main-png-2000x2000.png"
+   },
+   {
+    "slug": "the-duos",
+    "title": "THE DUOS",
+    "subtitle": "Pocket Blush + Peptide Lip Tint",
+    "badge": null,
+    "badgeColor": "",
+    "img": "main-duo-teacup-pretzel-SQ.png"
+   }
+  ]
+ },
+ {
+  "key": "On The Go",
+  "label": "On The Go",
+  "items": [
+   {
+    "slug": "the-on-the-go-set",
+    "title": "THE ON-THE-GO SET",
+    "subtitle": "Five take-everywhere essentials",
+    "badge": "only at rhode",
+    "badgeColor": "color: #ffffff; background-color: #67645e;",
+    "img": "on-the-go-set-r-icon-main-png-2000x2000.png"
+   },
+   {
+    "slug": "spotwear-strawberry",
+    "title": "SPOTWEAR",
+    "subtitle": "Hydrocolloid Pimple Shield",
+    "badge": "New",
+    "badgeColor": "color: #ffffff; background-color: #67645e;",
+    "img": "spotwear-strawberry-main-png-2000x2000.png"
+   },
+   {
+    "slug": "spot-case",
+    "title": "SPOT CASE",
+    "subtitle": "The spotwear holder",
+    "badge": "only at rhode",
+    "badgeColor": "color: #ffffff; background-color: #67645e;",
+    "img": "spot-case-main-png-2000x2000.png"
+   },
+   {
+    "slug": "lip-case",
+    "title": "LIP CASE",
+    "subtitle": "Limited edition colors",
+    "badge": "only at rhode",
+    "badgeColor": "color: #ffffff; background-color: #67645e;",
+    "img": "lip-case-bronze-main-png-2000x2000.png"
+   },
+   {
+    "slug": "peptide-eye-prep-r-icon",
+    "title": "PEPTIDE EYE PREP",
+    "subtitle": "Depuffing eye patches",
+    "badge": null,
+    "badgeColor": "",
+    "img": "eyeprep-r-icon-main-png-2000x2000.png"
+   }
+  ]
+ },
+ {
+  "key": "Award Winners",
+  "label": "Award Winners",
+  "items": [
+   {
+    "slug": "highlight-milk-02",
+    "title": "BEST ILLUMINATING PRIMER",
+    "subtitle": "Allure Best of Beauty 2026",
+    "badge": null,
+    "badgeColor": "",
+    "img": "allure-highlight-milk-badge.webp"
+   },
+   {
+    "slug": "glazing-milk",
+    "title": "BEST ESSENCE",
+    "subtitle": "Allure Best of Beauty 2024",
+    "badge": null,
+    "badgeColor": "",
+    "img": "allure_bob_2024_1.webp"
+   },
+   {
+    "slug": "barrier-butter",
+    "title": "BEST RICH MOISTURIZER",
+    "subtitle": "Allure Best of Beauty 2025",
+    "badge": null,
+    "badgeColor": "",
+    "img": "allure-bob-2025-badge.webp"
+   },
+   {
+    "slug": "lip-case",
+    "title": "BEST VIRAL BEAUTY MOMENT",
+    "subtitle": "Vogue Beauty Awards 2024",
+    "badge": "only at rhode",
+    "badgeColor": "color: #ffffff; background-color: #67645e;",
+    "img": "lip-case-bronze-main-png-2000x2000.png"
+   },
+   {
+    "slug": "pineapple-refresh-cleanser",
+    "title": "BEST CREAM FACE WASH",
+    "subtitle": "Cosmopolitan Beauty Awards 2024",
+    "badge": null,
+    "badgeColor": "",
+    "img": "cleanser-main-png-2000x2000-revision.png"
+   }
+  ]
+ }
+]
